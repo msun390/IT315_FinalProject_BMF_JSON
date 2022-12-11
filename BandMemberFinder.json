@@ -73,6 +73,18 @@
      "website":"https://www.youtube.com/watch?v=KN7HrvBAfO0&ab_channel=DocHenry",
      "disclaimer":"Disclaimer: this App is developed as an educational project. Certain materials are included under the fair use exemption of the U.S. Copyright Law and have been prepared according to the multimedia fair use guidelines and are restricted from further use"},
       
+     {"name":"Travis Barker",
+     "location":"VA",
+     "musicStyles":"Rock, Hip Hop, Funk",
+     "skills":"Drum",
+     "age":46,
+     "gender":"Male",
+     "interests":"Join existing Band, Jam with others",
+     "description":"I play drum with my punk rock buddies, but I also enjoy playing hip hop and rap music.",
+     "memberImage":"https://raw.githubusercontent.com/msun390/IT315_FinalProject_BMF_JSON/main/Travis_Barker.jpeg",
+     "website":"https://www.youtube.com/watch?v=WYVKLOi5p5Q&ab_channel=Power106LosAngeles",
+     "disclaimer":"Disclaimer: this App is developed as an educational project. Certain materials are included under the fair use exemption of the U.S. Copyright Law and have been prepared according to the multimedia fair use guidelines and are restricted from further use"},
+    
      {"name":"Ariana Grande",
      "location":"NY",
      "musicStyles":"Pop, R&B",
