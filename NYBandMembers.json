@@ -1,0 +1,41 @@
+{
+  "NYBandMembers":
+  [
+    {"name":"Selena Gomez",
+     "location":"NY",
+     "musicStyles":"Pop, Dance-pop",
+     "skills":"Vocal",
+     "age":30,
+     "gender":"Female",
+     "interests":"Singing, listening to music, cooking, and acting, practice with others",
+     "description":"I am a songwriter, actress, and producer.",
+     "memberImage":"https://raw.githubusercontent.com/msun390/IT315_FinalProject_BMF_JSON/main/selena.jpeg",
+     "website":"https://www.youtube.com/watch?v=AbmY1HRf5Vg&ab_channel=Miguelgoful",
+     "disclaimer":"Disclaimer: this App is developed as an educational project. Certain materials are included under the fair use exemption of the U.S. Copyright Law and have been prepared according to the multimedia fair use guidelines and are restricted from further use"},
+      
+     {"name":"Marcus Miller",
+     "location":"NY",
+     "musicStyles":"Rock, Jazz, Funk",
+     "skills":"Bass, Guitar, Vocal",
+     "age":63,
+     "gender":"Male",
+     "interests":"Singing, playing a guitar, keyboards, clarinet, saxophone, jam with others",
+     "description":"I play bass and write funk music for a living. I have played bass on over 500 recordings.",
+     "memberImage":"https://raw.githubusercontent.com/msun390/IT315_FinalProject_BMF_JSON/main/Marcus_Miller.jpeg",
+     "website":"https://www.youtube.com/watch?v=KN7HrvBAfO0&ab_channel=DocHenry",
+     "disclaimer":"Disclaimer: this App is developed as an educational project. Certain materials are included under the fair use exemption of the U.S. Copyright Law and have been prepared according to the multimedia fair use guidelines and are restricted from further use"},
+      
+     {"name":"Ariana Grande",
+     "location":"NY",
+     "musicStyles":"Pop, R&B",
+     "skills":"Vocal",
+     "age":29,
+     "gender":"Female",
+     "interests":"Singing, Songwriting, Acting, Start new band, and Hang out with others",
+     "description":"I sang various times at the New York City jazz club Birdland. I hope I can find a band with passionate members.",
+     "memberImage":"https://raw.githubusercontent.com/msun390/IT315_FinalProject_BMF_JSON/main/Ariana_Grande.png",
+     "website":"https://www.youtube.com/watch?v=fLFvbwrWLQY&ab_channel=ArianaGrandeVevo",
+     "disclaimer":"Disclaimer: this App is developed as an educational project. Certain materials are included under the fair use exemption of the U.S. Copyright Law and have been prepared according to the multimedia fair use guidelines and are restricted from further use"}
+  ],
+  "Status":"OK"
+}
