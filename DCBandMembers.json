@@ -1,0 +1,41 @@
+{
+  "DCBandMembers":
+  [
+     {"name":"Liam Gallagher",
+     "location":"DC",
+     "musicStyles":"Rock",
+     "skills":"Guitar, Vocal",
+     "age":40,
+     "gender":"Male",
+     "interests":"Watching football, Join existing band",
+     "description":"I like Manchester City.",
+     "memberImage":"https://raw.githubusercontent.com/msun390/IT315_FinalProject_BMF_JSON/main/liam.jpeg",
+     "website":"https://www.youtube.com/watch?v=PPJyLcUmSYE&ab_channel=3voor12",
+     "disclaimer":"Disclaimer: this App is developed as an educational project. Certain materials are included under the fair use exemption of the U.S. Copyright Law and have been prepared according to the multimedia fair use guidelines and are restricted from further use"},
+     
+     {"name":"Sam Smith",
+     "location":"DC",
+     "musicStyles":"Pop and R&B",
+     "skills":"Vocal",
+     "age":30,
+     "gender":"Male",
+     "interests":"Singing and Songwriting, Join existing band",
+     "description":"I had been in jazz bands and musical theatre.",
+     "memberImage":"https://raw.githubusercontent.com/msun390/IT315_FinalProject_BMF_JSON/main/Sam_Smith.jpeg",
+     "website":"https://www.youtube.com/watch?v=yKSq_q0kwIE&ab_channel=BBCRadio1VEVO",
+     "disclaimer":"Disclaimer: this App is developed as an educational project. Certain materials are included under the fair use exemption of the U.S. Copyright Law and have been prepared according to the multimedia fair use guidelines and are restricted from further use"},
+      
+     {"name":"Adam Levine",
+     "location":"DC",
+     "musicStyles":"Pop, Funk-rock",
+     "skills":"Vocal",
+     "age":43,
+     "gender":"Male",
+     "interests":"Singing, Songwriting, and Join existing Band",
+     "description":"I love writing songs and I like to dance like McJagger.",
+     "memberImage":"https://raw.githubusercontent.com/msun390/IT315_FinalProject_BMF_JSON/main/Adam_Levine.jpeg",
+     "website":"https://www.youtube.com/watch?v=zOOwAZyO5N0&ab_channel=Maroon5VEVO",
+     "disclaimer":"Disclaimer: this App is developed as an educational project. Certain materials are included under the fair use exemption of the U.S. Copyright Law and have been prepared according to the multimedia fair use guidelines and are restricted from further use"}
+  ],
+  "Status":"OK"
+}
