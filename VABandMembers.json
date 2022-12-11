@@ -1,0 +1,41 @@
+{
+  "VABandMembers":
+  [
+     {"name":"Buddy Rich",
+     "location":"VA",
+     "musicStyles":"Jazz",
+     "skills":"Drum",
+     "age":49,
+     "gender":"Male",
+     "interests":"Watching movies, Hang out with others, Jam with others",
+     "description":"I am the legendary drummer.",
+     "memberImage":"https://raw.githubusercontent.com/msun390/IT315_FinalProject_BMF_JSON/main/Buddy_Rich.jpeg",
+     "website":"https://www.youtube.com/watch?v=krE1BFg2mVw&ab_channel=DRUMMERWORLDbyBernhardCastiglioni",
+     "disclaimer":"Disclaimer: this App is developed as an educational project. Certain materials are included under the fair use exemption of the U.S. Copyright Law and have been prepared according to the multimedia fair use guidelines and are restricted from further use"},
+      
+     {"name":"Joan Jett",
+     "location":"VA",
+     "musicStyles":"Rock",
+     "skills":"Guitar, Vocal",
+     "age":29,
+     "gender":"Female",
+     "interests":"Singing, playing a guitar, acting, Start new band",
+     "description":"I have a mezzo-soprano vocal range. I have three albums that have been certified platinum or gold.",
+     "memberImage":"https://raw.githubusercontent.com/msun390/IT315_FinalProject_BMF_JSON/main/joan_jett.jpeg",
+     "website":"https://www.youtube.com/watch?v=nnEyb4F3Su8&ab_channel=runawayjett",
+     "disclaimer":"Disclaimer: this App is developed as an educational project. Certain materials are included under the fair use exemption of the U.S. Copyright Law and have been prepared according to the multimedia fair use guidelines and are restricted from further use"},
+     
+     {"name":"Travis Barker",
+     "location":"VA",
+     "musicStyles":"Rock, Hip Hop, Funk",
+     "skills":"Drum",
+     "age":46,
+     "gender":"Male",
+     "interests":"Join existing Band, Jam with others",
+     "description":"I play drum with my punk rock buddies, but I also enjoy playing hip hop and rap music.",
+     "memberImage":"https://raw.githubusercontent.com/msun390/IT315_FinalProject_BMF_JSON/main/Travis_Barker.jpeg",
+     "website":"https://www.youtube.com/watch?v=WYVKLOi5p5Q&ab_channel=Power106LosAngeles",
+     "disclaimer":"Disclaimer: this App is developed as an educational project. Certain materials are included under the fair use exemption of the U.S. Copyright Law and have been prepared according to the multimedia fair use guidelines and are restricted from further use"}
+  ],
+  "Status":"OK"
+}
